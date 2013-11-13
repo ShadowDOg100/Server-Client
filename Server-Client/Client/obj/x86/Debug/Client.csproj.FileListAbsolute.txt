@@ -1,0 +1,15 @@
+C:\Users\ShadowDog100\Desktop\GSP\C#\FirstSocketApp\Client\bin\Debug\Client.exe
+C:\Users\ShadowDog100\Desktop\GSP\C#\FirstSocketApp\Client\bin\Debug\Client.pdb
+C:\Users\ShadowDog100\Desktop\GSP\C#\FirstSocketApp\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ShadowDog100\Desktop\GSP\C#\FirstSocketApp\Client\obj\x86\Debug\Client.exe
+C:\Users\ShadowDog100\Desktop\GSP\C#\FirstSocketApp\Client\obj\x86\Debug\Client.pdb
+C:\Users\ShadowDog100\Desktop\GSP\C#\encryptcloud\FirstSocketApp\Client\obj\x86\Debug\Client.exe
+C:\Users\ShadowDog100\Desktop\GSP\C#\encryptcloud\FirstSocketApp\Client\obj\x86\Debug\Client.pdb
+C:\Users\ShadowDog100\Desktop\GSP\C#\encryptcloud\FirstSocketApp\Client\bin\Debug\Client.exe
+C:\Users\ShadowDog100\Desktop\GSP\C#\encryptcloud\FirstSocketApp\Client\bin\Debug\Client.pdb
+C:\Users\ShadowDog100\Desktop\GSP\C#\encryptcloud\FirstSocketApp\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ShadowDog100\Desktop\GSP\C#\encryptcloud\Server-Client\Client\obj\x86\Debug\Client.exe
+C:\Users\ShadowDog100\Desktop\GSP\C#\encryptcloud\Server-Client\Client\obj\x86\Debug\Client.pdb
+C:\Users\ShadowDog100\Desktop\GSP\C#\encryptcloud\Server-Client\Client\bin\Debug\Client.exe
+C:\Users\ShadowDog100\Desktop\GSP\C#\encryptcloud\Server-Client\Client\bin\Debug\Client.pdb
+C:\Users\ShadowDog100\Desktop\GSP\C#\encryptcloud\Server-Client\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache

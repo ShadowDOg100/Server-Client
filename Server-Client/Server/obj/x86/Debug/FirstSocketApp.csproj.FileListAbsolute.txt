@@ -1,0 +1,5 @@
+C:\Users\ShadowDog100\Desktop\GSP\C#\FirstSocketApp\FirstSocketApp\bin\Debug\FirstSocketApp.exe
+C:\Users\ShadowDog100\Desktop\GSP\C#\FirstSocketApp\FirstSocketApp\bin\Debug\FirstSocketApp.pdb
+C:\Users\ShadowDog100\Desktop\GSP\C#\FirstSocketApp\FirstSocketApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ShadowDog100\Desktop\GSP\C#\FirstSocketApp\FirstSocketApp\obj\x86\Debug\FirstSocketApp.exe
+C:\Users\ShadowDog100\Desktop\GSP\C#\FirstSocketApp\FirstSocketApp\obj\x86\Debug\FirstSocketApp.pdb
